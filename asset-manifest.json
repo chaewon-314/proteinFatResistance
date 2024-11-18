@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/proteinFatResistance/static/css/main.e6c13ad2.css",
+    "main.js": "/proteinFatResistance/static/js/main.fbce43df.js",
+    "static/js/453.0cc0ac16.chunk.js": "/proteinFatResistance/static/js/453.0cc0ac16.chunk.js",
+    "index.html": "/proteinFatResistance/index.html",
+    "main.e6c13ad2.css.map": "/proteinFatResistance/static/css/main.e6c13ad2.css.map",
+    "main.fbce43df.js.map": "/proteinFatResistance/static/js/main.fbce43df.js.map",
+    "453.0cc0ac16.chunk.js.map": "/proteinFatResistance/static/js/453.0cc0ac16.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.fbce43df.js"
+  ]
+}
